@@ -3,7 +3,8 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=daffahaidar&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&hide=contribs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daffahaidar&layout=compact&theme=tokyonight&show_icons=true&hide=html,scss,css&hide_border=true&card_width=240)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=daffahaidar.daffahaidar)
+![Visitor Badge]()
+<p align = "center"><img src="https://visitor-badge.laobi.icu/badge?page_id=daffahaidar.daffahaidar"></p>
 
 <div>
   <p align = "center">
