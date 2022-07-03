@@ -1,9 +1,6 @@
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=daffahaidar&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"> -->
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=daffahaidar&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&hide=contribs)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=daffahaidar&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daffahaidar&layout=compact&theme=tokyonight&show_icons=true&hide=html,scss,css&hide_border=true&card_width=240)
 
-![Visitor Badge]()
 <p align = "center"><img src="https://visitor-badge.laobi.icu/badge?page_id=daffahaidar.daffahaidar"></p>
 
 <div>
