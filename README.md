@@ -1,3 +1,5 @@
+![Purple Computer Google Classroom Header](https://user-images.githubusercontent.com/56962807/181460490-7fe69039-4663-483d-8585-52f20cbbbc7b.jpg)
+
 <h1 align="center">📊 My GitHub Stats</h1>
 <p align = "center">
 <img src="https://github-readme-stats.vercel.app/api?username=daffahaidar&theme=dark&hide_border=false&include_all_commits=true&count_private=false">
