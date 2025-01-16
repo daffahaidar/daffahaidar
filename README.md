@@ -4,9 +4,9 @@
 I'm a Frontend Developer passionate about building high-quality, user-centric web applications. 🚀
 
 # 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=daffahaidar&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=daffahaidar&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=daffahaidar&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=daffahaidar&theme=highcontrast&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&hide=contribs) <br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daffahaidar&layout=compact&theme=highcontrast&show_icons=true&hide=html,scss,css&hide_border=true&card_width=240) <br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=daffahaidar&theme=highcontrast&hide_border=true)<br/>
 
 <h1>🏆 GitHub Trophies</h1>
 <p><img src="https://github-profile-trophy.vercel.app/?username=daffahaidar&theme=darkhub&no-frame=false&no-bg=false&margin-w=4"></p>
