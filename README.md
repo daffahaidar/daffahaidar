@@ -1,27 +1,27 @@
 <!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:bb9af7&height=220&section=header&text=Daffa%20Haidar&fontSize=64&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20Developer&descSize=22&descAlignY=58&animation=fadeIn" width="100%" alt="Daffa Haidar — Full Stack Developer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,100:1e40af&height=220&section=header&text=Daffa%20Haidar&fontSize=64&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20Developer&descSize=22&descAlignY=58&animation=fadeIn" width="100%" alt="Daffa Haidar — Full Stack Developer" />
 
 <div align="center">
 
 <a href="https://github.com/daffahaidar">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=640&lines=Full+Stack+Developer+%F0%9F%9A%80;React+%C2%B7+Vue+%C2%B7+Next.js+%C2%B7+Tailwind+CSS;Express+%C2%B7+Rust+%C2%B7+Go+Fiber;From+pixel-perfect+UI+to+rock-solid+APIs;Building+responsive+%26+scalable+apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=57A6FF&center=true&vCenter=true&width=640&lines=Full+Stack+Developer+%F0%9F%9A%80;React+%C2%B7+Vue+%C2%B7+Next.js+%C2%B7+Tailwind+CSS;Express+%C2%B7+Rust+%C2%B7+Go+Fiber;From+pixel-perfect+UI+to+rock-solid+APIs;Building+responsive+%26+scalable+apps" alt="Typing SVG" />
 </a>
 
 <p>
-  <a href="https://www.linkedin.com/in/daffa-haidar-nabil-zufar-541562222/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:daffa.h.n.zufar@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://www.instagram.com/daffa.h.n.zufar_27/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://www.hackerrank.com/daffahaidar27" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
-  <a href="https://www.codewars.com/users/daffahaidar" target="_blank"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white" alt="Codewars" /></a>
+  <a href="https://www.linkedin.com/in/daffa-haidar-nabil-zufar-541562222/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0a192f?style=for-the-badge&logo=linkedin&logoColor=57a6ff" alt="LinkedIn" /></a>
+  <a href="mailto:daffa.h.n.zufar@gmail.com"><img src="https://img.shields.io/badge/Gmail-0a192f?style=for-the-badge&logo=gmail&logoColor=57a6ff" alt="Gmail" /></a>
+  <a href="https://www.instagram.com/daffa.h.n.zufar_27/" target="_blank"><img src="https://img.shields.io/badge/Instagram-0a192f?style=for-the-badge&logo=instagram&logoColor=57a6ff" alt="Instagram" /></a>
+  <a href="https://www.hackerrank.com/daffahaidar27" target="_blank"><img src="https://img.shields.io/badge/HackerRank-0a192f?style=for-the-badge&logo=hackerrank&logoColor=57a6ff" alt="HackerRank" /></a>
+  <a href="https://www.codewars.com/users/daffahaidar" target="_blank"><img src="https://img.shields.io/badge/Codewars-0a192f?style=for-the-badge&logo=codewars&logoColor=57a6ff" alt="Codewars" /></a>
 </p>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## <img src="https://api.iconify.design/lucide/user-round.svg?color=%2357a6ff" height="26" align="center" /> About Me
 
-**Full Stack Developer** &nbsp;|&nbsp; React · Vue · Next.js · Tailwind CSS &nbsp;|&nbsp; Express · Rust · Go Fiber &nbsp;|&nbsp; Crafting responsive, scalable, and high-performance apps — from pixel-perfect UI to rock-solid APIs.
+**Full Stack Developer** &nbsp;|&nbsp; React · Vue · Next.js · Tailwind CSS &nbsp;|&nbsp; Express · Rust · Go Fiber &nbsp;|&nbsp; Crafting responsive, scalable, and high-performance apps from pixel-perfect UI to rock-solid APIs.
 
 ```ts
 const daffa = {
@@ -34,53 +34,59 @@ const daffa = {
 };
 ```
 
-- 🎨 **Frontend** — building intuitive, accessible, and responsive interfaces that users love.
-- ⚙️ **Backend** — designing fast, reliable APIs and services built to scale.
-- ☁️ **Ship it** — containerizing, automating, and deploying to the cloud with confidence.
-- 🤝 **Open to** — collaborations, freelance projects, and new opportunities. Let's build something great!
+- <img src="https://api.iconify.design/lucide/palette.svg?color=%2357a6ff" height="18" align="center" /> **Frontend** - building intuitive, accessible, and responsive interfaces that users love.
+- <img src="https://api.iconify.design/lucide/server.svg?color=%2357a6ff" height="18" align="center" /> **Backend** - designing fast, reliable APIs and services built to scale.
+- <img src="https://api.iconify.design/lucide/rocket.svg?color=%2357a6ff" height="18" align="center" /> **Ship it** - containerizing, automating, and deploying to the cloud with confidence.
+- <img src="https://api.iconify.design/lucide/handshake.svg?color=%2357a6ff" height="18" align="center" /> **Open to** - collaborations, freelance projects, and new opportunities. Let's build something great!
 
 ---
 
-## 🛠️ Tech Stack
+## <img src="https://api.iconify.design/lucide/layers.svg?color=%2357a6ff" height="26" align="center" /> Tech Stack
 
-<div align="center">
-
-**🎨 Frontend**<br/>
+<img src="https://api.iconify.design/lucide/monitor.svg?color=%2357a6ff" height="18" align="center" /> **Frontend**<br/><br/>
 <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,ts,js,tailwind,redux,vite,threejs,sass,html,css" alt="Frontend" />
 
-**⚙️ Backend** — Express · Rust · Go Fiber · NestJS<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,rust,go,nestjs,bun,graphql,spring,solidity" alt="Backend" />
+<img src="assets/divider.svg" width="100%" height="1" alt="" />
 
-**📱 Mobile** — React Native · Expo · Flutter<br/>
+<img src="https://api.iconify.design/lucide/server.svg?color=%2357a6ff" height="18" align="center" /> **Backend**<br/><br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,rust,go,nestjs,bun,graphql" alt="Backend" />
+
+<img src="assets/divider.svg" width="100%" height="1" alt="" />
+
+<img src="https://api.iconify.design/lucide/smartphone.svg?color=%2357a6ff" height="18" align="center" /> **Mobile**<br/><br/>
 <img src="https://skillicons.dev/icons?i=react,flutter" alt="Mobile" />
 
-**🗄️ Database & ORM**<br/>
+<img src="assets/divider.svg" width="100%" height="1" alt="" />
+
+<img src="https://api.iconify.design/lucide/database.svg?color=%2357a6ff" height="18" align="center" /> **Database & ORM**<br/><br/>
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,prisma,sequelize,firebase" alt="Database" />
 
-**☁️ Cloud & DevOps**<br/>
+<img src="assets/divider.svg" width="100%" height="1" alt="" />
+
+<img src="https://api.iconify.design/lucide/cloud.svg?color=%2357a6ff" height="18" align="center" /> **Cloud & DevOps**<br/><br/>
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,aws,gcp,cloudflare,vercel,netlify,githubactions" alt="Cloud & DevOps" />
 
-**🧰 Tools**<br/>
-<img src="https://skillicons.dev/icons?i=git,github,postman,figma,pnpm,yarn,webpack" alt="Tools" />
+<img src="assets/divider.svg" width="100%" height="1" alt="" />
 
-</div>
+<img src="https://api.iconify.design/lucide/wrench.svg?color=%2357a6ff" height="18" align="center" /> **Tools**<br/><br/>
+<img src="https://skillicons.dev/icons?i=git,github,postman,figma,pnpm,yarn,webpack" alt="Tools" />
 
 ---
 
-## 📊 GitHub Analytics
+## <img src="https://api.iconify.design/lucide/chart-column.svg?color=%2357a6ff" height="26" align="center" /> GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=daffahaidar&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&hide=contribs" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daffahaidar&layout=compact&theme=tokyonight&hide=html,scss,css&hide_border=true&langs_count=8" alt="Top Languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=daffahaidar&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&hide=contribs&bg_color=0a192f&title_color=57a6ff&icon_color=57a6ff&text_color=ccd6f6&ring_color=57a6ff" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daffahaidar&layout=compact&hide=html,scss,css&hide_border=true&langs_count=8&bg_color=0a192f&title_color=57a6ff&text_color=ccd6f6" alt="Top Languages" />
 
-<img src="https://streak-stats.demolab.com?user=daffahaidar&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=daffahaidar&hide_border=true&background=0A192F&ring=57A6FF&fire=57A6FF&currStreakLabel=57A6FF&sideLabels=CCD6F6&currStreakNum=CCD6F6&sideNums=CCD6F6&dates=8892B0&stroke=233554" alt="GitHub Streak" />
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=daffahaidar&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=daffahaidar&bg_color=0a192f&color=ccd6f6&line=57a6ff&point=ccd6f6&area_color=57a6ff&title_color=57a6ff&hide_border=true&area=true" alt="Contribution Graph" />
 
 </div>
 
-### 🐍 Contribution Snake
+### <img src="https://api.iconify.design/lucide/gamepad-2.svg?color=%2357a6ff" height="22" align="center" /> Contribution Snake
 
 <div align="center">
   <picture>
@@ -90,19 +96,22 @@ const daffa = {
   </picture>
 </div>
 
-### 🏆 Trophies
+### <img src="https://api.iconify.design/lucide/trophy.svg?color=%2357a6ff" height="22" align="center" /> Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=daffahaidar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
+  <img width="100%" src="https://raw.githubusercontent.com/daffahaidar/daffahaidar/output/trophy.svg" alt="GitHub Trophies" />
 </div>
 
-### 🔝 Top Contributed Repos
+### <img src="https://api.iconify.design/lucide/folder-git-2.svg?color=%2357a6ff" height="22" align="center" /> Top Repositories
 
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=daffahaidar&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
+  <a href="https://github.com/daffahaidar/interactive-3d-event-badge"><img src="https://github-readme-stats.vercel.app/api/pin/?username=daffahaidar&repo=interactive-3d-event-badge&hide_border=true&bg_color=0a192f&title_color=57a6ff&icon_color=57a6ff&text_color=ccd6f6" alt="interactive-3d-event-badge" /></a>
+  <a href="https://github.com/daffahaidar/school-management-system"><img src="https://github-readme-stats.vercel.app/api/pin/?username=daffahaidar&repo=school-management-system&hide_border=true&bg_color=0a192f&title_color=57a6ff&icon_color=57a6ff&text_color=ccd6f6" alt="school-management-system" /></a>
+  <a href="https://github.com/daffahaidar/wedding-invitation-web"><img src="https://github-readme-stats.vercel.app/api/pin/?username=daffahaidar&repo=wedding-invitation-web&hide_border=true&bg_color=0a192f&title_color=57a6ff&icon_color=57a6ff&text_color=ccd6f6" alt="wedding-invitation-web" /></a>
+  <a href="https://github.com/daffahaidar/rust-axum-boilerplate"><img src="https://github-readme-stats.vercel.app/api/pin/?username=daffahaidar&repo=rust-axum-boilerplate&hide_border=true&bg_color=0a192f&title_color=57a6ff&icon_color=57a6ff&text_color=ccd6f6" alt="rust-axum-boilerplate" /></a>
 </div>
 
-### ⚔️ Codewars
+### <img src="https://api.iconify.design/lucide/swords.svg?color=%2357a6ff" height="22" align="center" /> Codewars
 
 <div align="center">
   <a href="https://www.codewars.com/users/daffahaidar"><img src="https://www.codewars.com/users/daffahaidar/badges/large" alt="Codewars Badge" /></a>
@@ -112,12 +121,12 @@ const daffa = {
 
 <div align="center">
 
-### ☕ Support My Work
+### <img src="https://api.iconify.design/lucide/coffee.svg?color=%2357a6ff" height="22" align="center" /> Support My Work
 
-<a href="https://buymeacoffee.com/daffahaidarnz"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee" /></a>
+<a href="https://buymeacoffee.com/daffahaidarnz"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-0a192f?style=for-the-badge&logo=buy-me-a-coffee&logoColor=ffdd00" alt="Buy Me a Coffee" /></a>
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=daffahaidar.daffahaidar" alt="Visitors" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:bb9af7&height=120&section=footer" width="100%" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,100:1e40af&height=120&section=footer" width="100%" alt="Footer" />
