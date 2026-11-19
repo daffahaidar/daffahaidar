@@ -1,41 +1,123 @@
-![Purple Computer Google Classroom Header](https://user-images.githubusercontent.com/56962807/181460490-7fe69039-4663-483d-8585-52f20cbbbc7b.jpg)
+<!-- Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:bb9af7&height=220&section=header&text=Daffa%20Haidar&fontSize=64&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20Developer&descSize=22&descAlignY=58&animation=fadeIn" width="100%" alt="Daffa Haidar — Full Stack Developer" />
 
-# 💫 About Me:
-I'm a Frontend Developer passionate about building high-quality, user-centric web applications. 🚀
+<div align="center">
 
-# 📊 GitHub Stats
-![Github Stats](https://github-readme-stats.vercel.app/api?username=daffahaidar&theme=highcontrast&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&hide=contribs) <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daffahaidar&layout=compact&theme=highcontrast&show_icons=true&hide=html,scss,css&hide_border=true&card_width=240) <br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=daffahaidar&theme=highcontrast&hide_border=true)<br/>
+<a href="https://github.com/daffahaidar">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=640&lines=Full+Stack+Developer+%F0%9F%9A%80;React+%C2%B7+Vue+%C2%B7+Next.js+%C2%B7+Tailwind+CSS;Express+%C2%B7+Rust+%C2%B7+Go+Fiber;From+pixel-perfect+UI+to+rock-solid+APIs;Building+responsive+%26+scalable+apps" alt="Typing SVG" />
+</a>
 
-<h1>🏆 GitHub Trophies</h1>
-<p><img src="https://github-profile-trophy.vercel.app/?username=daffahaidar&theme=darkhub&no-frame=false&no-bg=false&margin-w=4"></p>
-
-# 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=daffahaidar&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-# 💻 Tech Stack
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![Alibaba Cloud](https://img.shields.io/badge/AlibabaCloud-%23FF6701.svg?style=for-the-badge&logo=alibabacloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=#00DC82) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Badge Name](https://img.shields.io/badge/tRPC-%232596BE.svg?style=for-the-badge&logo=tRPC&logoColor=white) ![Type-graphql](https://img.shields.io/badge/-TypeGraphQL-%23C04392?style=for-the-badge) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-
-
-<h1>⚔️ Codewars</h1>
 <p>
-<img src="https://www.codewars.com/users/daffahaidar/badges/large">
+  <a href="https://www.linkedin.com/in/daffa-haidar-nabil-zufar-541562222/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:daffa.h.n.zufar@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://www.instagram.com/daffa.h.n.zufar_27/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.hackerrank.com/daffahaidar27" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
+  <a href="https://www.codewars.com/users/daffahaidar" target="_blank"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white" alt="Codewars" /></a>
 </p>
 
-<div>
-  <p>
-<a href="https://www.linkedin.com/in/daffa-haidar-nabil-zufar-541562222/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/daffa.h.n.zufar_27/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" ></a>
-<a href="https://www.hackerrank.com/daffahaidar27" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Hackerrank"></a>
-<a href="mailto:daffa.h.n.zufar@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  </p>
 </div>
 
-# 💰 You can support me
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/daffahaidarnz) 
+---
 
-<p><img src="https://visitor-badge.laobi.icu/badge?page_id=daffahaidar.daffahaidar"></p>
+## 👨‍💻 About Me
 
+**Full Stack Developer** &nbsp;|&nbsp; React · Vue · Next.js · Tailwind CSS &nbsp;|&nbsp; Express · Rust · Go Fiber &nbsp;|&nbsp; Crafting responsive, scalable, and high-performance apps — from pixel-perfect UI to rock-solid APIs.
 
+```ts
+const daffa = {
+  role: "Full Stack Developer",
+  frontend: ["React", "Vue", "Next.js", "Tailwind CSS"],
+  backend: ["Express", "Rust", "Go Fiber"],
+  mobile: ["React Native", "Flutter"],
+  focus: "Responsive, scalable & performant apps",
+  motto: "Clean code. Fast UI. Solid APIs.",
+};
+```
 
+- 🎨 **Frontend** — building intuitive, accessible, and responsive interfaces that users love.
+- ⚙️ **Backend** — designing fast, reliable APIs and services built to scale.
+- ☁️ **Ship it** — containerizing, automating, and deploying to the cloud with confidence.
+- 🤝 **Open to** — collaborations, freelance projects, and new opportunities. Let's build something great!
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**🎨 Frontend**<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,ts,js,tailwind,redux,vite,threejs,sass,html,css" alt="Frontend" />
+
+**⚙️ Backend** — Express · Rust · Go Fiber · NestJS<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,rust,go,nestjs,bun,graphql,spring,solidity" alt="Backend" />
+
+**📱 Mobile** — React Native · Expo · Flutter<br/>
+<img src="https://skillicons.dev/icons?i=react,flutter" alt="Mobile" />
+
+**🗄️ Database & ORM**<br/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,prisma,sequelize,firebase" alt="Database" />
+
+**☁️ Cloud & DevOps**<br/>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,aws,gcp,cloudflare,vercel,netlify,githubactions" alt="Cloud & DevOps" />
+
+**🧰 Tools**<br/>
+<img src="https://skillicons.dev/icons?i=git,github,postman,figma,pnpm,yarn,webpack" alt="Tools" />
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=daffahaidar&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&hide=contribs" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daffahaidar&layout=compact&theme=tokyonight&hide=html,scss,css&hide_border=true&langs_count=8" alt="Top Languages" />
+
+<img src="https://streak-stats.demolab.com?user=daffahaidar&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=daffahaidar&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+
+</div>
+
+### 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/daffahaidar/daffahaidar/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/daffahaidar/daffahaidar/output/github-snake.svg" />
+    <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/daffahaidar/daffahaidar/output/github-snake-dark.svg" />
+  </picture>
+</div>
+
+### 🏆 Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=daffahaidar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
+</div>
+
+### 🔝 Top Contributed Repos
+
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=daffahaidar&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
+</div>
+
+### ⚔️ Codewars
+
+<div align="center">
+  <a href="https://www.codewars.com/users/daffahaidar"><img src="https://www.codewars.com/users/daffahaidar/badges/large" alt="Codewars Badge" /></a>
+</div>
+
+---
+
+<div align="center">
+
+### ☕ Support My Work
+
+<a href="https://buymeacoffee.com/daffahaidarnz"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee" /></a>
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=daffahaidar.daffahaidar" alt="Visitors" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:bb9af7&height=120&section=footer" width="100%" alt="Footer" />
