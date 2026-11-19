@@ -8,11 +8,17 @@
 </a>
 
 <p>
-  <a href="https://www.linkedin.com/in/daffa-haidar-nabil-zufar-541562222/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0a192f?style=for-the-badge&logo=linkedin&logoColor=57a6ff" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/daffa-haidar-nabil-zufar-541562222/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0a192f?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwYXRoIGZpbGw9IiM1N2E2ZmYiIGQ9Ik0xOSAzYTIgMiAwIDAgMSAyIDJ2MTRhMiAyIDAgMCAxLTIgMkg1YTIgMiAwIDAgMS0yLTJWNWEyIDIgMCAwIDEgMi0yem0tLjUgMTUuNXYtNS4zYTMuMjYgMy4yNiAwIDAgMC0zLjI2LTMuMjZjLS44NSAwLTEuODQuNTItMi4zMiAxLjN2LTEuMTFoLTIuNzl2OC4zN2gyLjc5di00LjkzYzAtLjc3LjYyLTEuNCAxLjM5LTEuNGExLjQgMS40IDAgMCAxIDEuNCAxLjR2NC45M3pNNi44OCA4LjU2YTEuNjggMS42OCAwIDAgMCAxLjY4LTEuNjhjMC0uOTMtLjc1LTEuNjktMS42OC0xLjY5YTEuNjkgMS42OSAwIDAgMC0xLjY5IDEuNjljMCAuOTMuNzYgMS42OCAxLjY5IDEuNjhtMS4zOSA5Ljk0di04LjM3SDUuNXY4LjM3eiIvPjwvc3ZnPg==" alt="LinkedIn" /></a>
   <a href="mailto:daffa.h.n.zufar@gmail.com"><img src="https://img.shields.io/badge/Gmail-0a192f?style=for-the-badge&logo=gmail&logoColor=57a6ff" alt="Gmail" /></a>
   <a href="https://www.instagram.com/daffa.h.n.zufar_27/" target="_blank"><img src="https://img.shields.io/badge/Instagram-0a192f?style=for-the-badge&logo=instagram&logoColor=57a6ff" alt="Instagram" /></a>
   <a href="https://www.hackerrank.com/daffahaidar27" target="_blank"><img src="https://img.shields.io/badge/HackerRank-0a192f?style=for-the-badge&logo=hackerrank&logoColor=57a6ff" alt="HackerRank" /></a>
   <a href="https://www.codewars.com/users/daffahaidar" target="_blank"><img src="https://img.shields.io/badge/Codewars-0a192f?style=for-the-badge&logo=codewars&logoColor=57a6ff" alt="Codewars" /></a>
+</p>
+
+<p>
+  <a href="https://buymeacoffee.com/daffahaidarnz"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-0a192f?style=for-the-badge&logo=buy-me-a-coffee&logoColor=ffdd00" alt="Buy Me a Coffee" /></a>
+  <a href="https://saweria.co/daffahaidar"><img src="https://img.shields.io/badge/Saweria-0a192f?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxnIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2ZhYWUyYiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Ik0xMSAxNWgyYTIgMiAwIDEgMCAwLTRoLTNjLS42IDAtMS4xLjItMS40LjZMMyAxNyIvPjxwYXRoIGQ9Im03IDIxbDEuNi0xLjRjLjMtLjQuOC0uNiAxLjQtLjZoNGMxLjEgMCAyLjEtLjQgMi44LTEuMmw0LjYtNC40YTIgMiAwIDAgMC0yLjc1LTIuOTFsLTQuMiAzLjlNMiAxNmw2IDYiLz48Y2lyY2xlIGN4PSIxNiIgY3k9IjkiIHI9IjIuOSIvPjxjaXJjbGUgY3g9IjYiIGN5PSI1IiByPSIzIi8+PC9nPjwvc3ZnPg==" alt="Saweria" /></a>
+  <a href="https://trakteer.id/daffahaidar"><img src="https://img.shields.io/badge/Trakteer-0a192f?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxnIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2U2MmYzNyIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Im02IDhsMS43NSAxMi4yOGEyIDIgMCAwIDAgMiAxLjcyaDQuNTRhMiAyIDAgMCAwIDItMS43MkwxOCA4TTUgOGgxNCIvPjxwYXRoIGQ9Ik03IDE1YTYuNDcgNi40NyAwIDAgMSA1IDBhNi40NyA2LjQ3IDAgMCAwIDUgMG0tNS03bDEtNmgyIi8+PC9nPjwvc3ZnPg==" alt="Trakteer" /></a>
 </p>
 
 </div>
@@ -120,10 +126,6 @@ const daffa = {
 ---
 
 <div align="center">
-
-### <img src="https://api.iconify.design/lucide/coffee.svg?color=%2357a6ff&height=26" height="26" align="absmiddle" /> Support My Work
-
-<a href="https://buymeacoffee.com/daffahaidarnz"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-0a192f?style=for-the-badge&logo=buy-me-a-coffee&logoColor=ffdd00" alt="Buy Me a Coffee" /></a>
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=daffahaidar.daffahaidar" alt="Visitors" />
 
