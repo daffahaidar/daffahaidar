@@ -19,7 +19,7 @@
 
 ---
 
-## <img src="https://api.iconify.design/lucide/user-round.svg?color=%2357a6ff" height="26" align="center" /> About Me
+## <img src="https://api.iconify.design/lucide/user-round.svg?color=%2357a6ff&height=30" height="30" align="absmiddle" /> About Me
 
 **Full Stack Developer** &nbsp;|&nbsp; React · Vue · Next.js · Tailwind CSS &nbsp;|&nbsp; Express · Rust · Go Fiber &nbsp;|&nbsp; Crafting responsive, scalable, and high-performance apps from pixel-perfect UI to rock-solid APIs.
 
@@ -34,46 +34,46 @@ const daffa = {
 };
 ```
 
-- <img src="https://api.iconify.design/lucide/palette.svg?color=%2357a6ff" height="18" align="center" /> **Frontend** - building intuitive, accessible, and responsive interfaces that users love.
-- <img src="https://api.iconify.design/lucide/server.svg?color=%2357a6ff" height="18" align="center" /> **Backend** - designing fast, reliable APIs and services built to scale.
-- <img src="https://api.iconify.design/lucide/rocket.svg?color=%2357a6ff" height="18" align="center" /> **Ship it** - containerizing, automating, and deploying to the cloud with confidence.
-- <img src="https://api.iconify.design/lucide/handshake.svg?color=%2357a6ff" height="18" align="center" /> **Open to** - collaborations, freelance projects, and new opportunities. Let's build something great!
+- <img src="https://api.iconify.design/lucide/palette.svg?color=%2357a6ff&height=22" height="22" align="absmiddle" /> **Frontend** - building intuitive, accessible, and responsive interfaces that users love.
+- <img src="https://api.iconify.design/lucide/server.svg?color=%2357a6ff&height=22" height="22" align="absmiddle" /> **Backend** - designing fast, reliable APIs and services built to scale.
+- <img src="https://api.iconify.design/lucide/rocket.svg?color=%2357a6ff&height=22" height="22" align="absmiddle" /> **Ship it** - containerizing, automating, and deploying to the cloud with confidence.
+- <img src="https://api.iconify.design/lucide/handshake.svg?color=%2357a6ff&height=22" height="22" align="absmiddle" /> **Open to** - collaborations, freelance projects, and new opportunities. Let's build something great!
 
 ---
 
-## <img src="https://api.iconify.design/lucide/layers.svg?color=%2357a6ff" height="26" align="center" /> Tech Stack
+## <img src="https://api.iconify.design/lucide/layers.svg?color=%2357a6ff&height=30" height="30" align="absmiddle" /> Tech Stack
 
-<img src="https://api.iconify.design/lucide/monitor.svg?color=%2357a6ff" height="18" align="center" /> **Frontend**<br/><br/>
+<img src="https://api.iconify.design/lucide/monitor.svg?color=%2357a6ff&height=22" height="22" align="absmiddle" /> **Frontend**<br/><br/>
 <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,ts,js,tailwind,redux,vite,threejs,sass,html,css" alt="Frontend" />
 
 <img src="assets/divider.svg" width="100%" height="1" alt="" />
 
-<img src="https://api.iconify.design/lucide/server.svg?color=%2357a6ff" height="18" align="center" /> **Backend**<br/><br/>
+<img src="https://api.iconify.design/lucide/server.svg?color=%2357a6ff&height=22" height="22" align="absmiddle" /> **Backend**<br/><br/>
 <img src="https://skillicons.dev/icons?i=nodejs,express,rust,go,nestjs,bun,graphql" alt="Backend" />
 
 <img src="assets/divider.svg" width="100%" height="1" alt="" />
 
-<img src="https://api.iconify.design/lucide/smartphone.svg?color=%2357a6ff" height="18" align="center" /> **Mobile**<br/><br/>
+<img src="https://api.iconify.design/lucide/smartphone.svg?color=%2357a6ff&height=22" height="22" align="absmiddle" /> **Mobile**<br/><br/>
 <img src="https://skillicons.dev/icons?i=react,flutter" alt="Mobile" />
 
 <img src="assets/divider.svg" width="100%" height="1" alt="" />
 
-<img src="https://api.iconify.design/lucide/database.svg?color=%2357a6ff" height="18" align="center" /> **Database & ORM**<br/><br/>
+<img src="https://api.iconify.design/lucide/database.svg?color=%2357a6ff&height=22" height="22" align="absmiddle" /> **Database & ORM**<br/><br/>
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,prisma,sequelize,firebase" alt="Database" />
 
 <img src="assets/divider.svg" width="100%" height="1" alt="" />
 
-<img src="https://api.iconify.design/lucide/cloud.svg?color=%2357a6ff" height="18" align="center" /> **Cloud & DevOps**<br/><br/>
+<img src="https://api.iconify.design/lucide/cloud.svg?color=%2357a6ff&height=22" height="22" align="absmiddle" /> **Cloud & DevOps**<br/><br/>
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,aws,gcp,cloudflare,vercel,netlify,githubactions" alt="Cloud & DevOps" />
 
 <img src="assets/divider.svg" width="100%" height="1" alt="" />
 
-<img src="https://api.iconify.design/lucide/wrench.svg?color=%2357a6ff" height="18" align="center" /> **Tools**<br/><br/>
+<img src="https://api.iconify.design/lucide/wrench.svg?color=%2357a6ff&height=22" height="22" align="absmiddle" /> **Tools**<br/><br/>
 <img src="https://skillicons.dev/icons?i=git,github,postman,figma,pnpm,yarn,webpack" alt="Tools" />
 
 ---
 
-## <img src="https://api.iconify.design/lucide/chart-column.svg?color=%2357a6ff" height="26" align="center" /> GitHub Analytics
+## <img src="https://api.iconify.design/lucide/chart-column.svg?color=%2357a6ff&height=30" height="30" align="absmiddle" /> GitHub Analytics
 
 <div align="center">
 
@@ -86,7 +86,7 @@ const daffa = {
 
 </div>
 
-### <img src="https://api.iconify.design/lucide/gamepad-2.svg?color=%2357a6ff" height="22" align="center" /> Contribution Snake
+### <img src="https://api.iconify.design/lucide/gamepad-2.svg?color=%2357a6ff&height=26" height="26" align="absmiddle" /> Contribution Snake
 
 <div align="center">
   <picture>
@@ -96,13 +96,13 @@ const daffa = {
   </picture>
 </div>
 
-### <img src="https://api.iconify.design/lucide/trophy.svg?color=%2357a6ff" height="22" align="center" /> Trophies
+### <img src="https://api.iconify.design/lucide/trophy.svg?color=%2357a6ff&height=26" height="26" align="absmiddle" /> Trophies
 
 <div align="center">
   <img width="100%" src="https://raw.githubusercontent.com/daffahaidar/daffahaidar/output/trophy.svg" alt="GitHub Trophies" />
 </div>
 
-### <img src="https://api.iconify.design/lucide/folder-git-2.svg?color=%2357a6ff" height="22" align="center" /> Top Repositories
+### <img src="https://api.iconify.design/lucide/folder-git-2.svg?color=%2357a6ff&height=26" height="26" align="absmiddle" /> Top Repositories
 
 <div align="center">
   <a href="https://github.com/daffahaidar/interactive-3d-event-badge"><img src="https://github-readme-stats.vercel.app/api/pin/?username=daffahaidar&repo=interactive-3d-event-badge&hide_border=true&bg_color=0a192f&title_color=57a6ff&icon_color=57a6ff&text_color=ccd6f6" alt="interactive-3d-event-badge" /></a>
@@ -111,7 +111,7 @@ const daffa = {
   <a href="https://github.com/daffahaidar/rust-axum-boilerplate"><img src="https://github-readme-stats.vercel.app/api/pin/?username=daffahaidar&repo=rust-axum-boilerplate&hide_border=true&bg_color=0a192f&title_color=57a6ff&icon_color=57a6ff&text_color=ccd6f6" alt="rust-axum-boilerplate" /></a>
 </div>
 
-### <img src="https://api.iconify.design/lucide/swords.svg?color=%2357a6ff" height="22" align="center" /> Codewars
+### <img src="https://api.iconify.design/lucide/swords.svg?color=%2357a6ff&height=26" height="26" align="absmiddle" /> Codewars
 
 <div align="center">
   <a href="https://www.codewars.com/users/daffahaidar"><img src="https://www.codewars.com/users/daffahaidar/badges/large" alt="Codewars Badge" /></a>
@@ -121,7 +121,7 @@ const daffa = {
 
 <div align="center">
 
-### <img src="https://api.iconify.design/lucide/coffee.svg?color=%2357a6ff" height="22" align="center" /> Support My Work
+### <img src="https://api.iconify.design/lucide/coffee.svg?color=%2357a6ff&height=26" height="26" align="absmiddle" /> Support My Work
 
 <a href="https://buymeacoffee.com/daffahaidarnz"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-0a192f?style=for-the-badge&logo=buy-me-a-coffee&logoColor=ffdd00" alt="Buy Me a Coffee" /></a>
 
